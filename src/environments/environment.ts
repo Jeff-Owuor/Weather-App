@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  weatherApiBaseUrl: 'https://open-weather13.p.rapidapi.com',
+  weatherApiBaseUrl: 'https://open-weather13.p.rapidapi.com/city',
   XRapidAPIHostHeader: 'X-RapidAPI-Host',
   XRapidAPIHostHeaderValue:'open-weather13.p.rapidapi.com',
   XRapidAPIKeyHeaderName: 'X-RapidAPI-Key',
