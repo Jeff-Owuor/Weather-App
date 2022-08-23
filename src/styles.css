@@ -14,6 +14,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(135, 138, 144);
 }
 
 .container{
@@ -50,4 +51,15 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.location{
+    color:white;
+    font-size: 2em;
+    text-align: center;
+}
+.temperature{
+    color:white;
+    font-size: 4em;
+    text-align: center;
 }
